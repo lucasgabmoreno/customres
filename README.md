@@ -8,5 +8,5 @@ sudo apt install cvt
 
 ## How to
 ```
-customres.sh [width] [height] [hz]
+./customres.sh [width] [height] [hz]
 ```
