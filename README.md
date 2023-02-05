@@ -10,5 +10,5 @@ sudo chmod +x /usr/bin/customres.sh
 
 ## How to
 ```
-./customres.sh [width] [height] [hz]
+bash customres.sh [width] [height] [Hz]
 ```
